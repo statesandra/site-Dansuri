@@ -1,0 +1,208 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.address{
+    color: black;
+}
+.topText{
+    padding: 10px;
+}
+
+.sectionLight{
+    background-color: rgba(71, 19, 71, 0.144);
+    padding: 2rem;
+}
+
+.sectionDark{
+    background-color:  rgba(59, 16, 59, 0.315) ;
+    padding: 2rem;
+
+}
+
+.coolStuffWrapper{
+    margin-top: 20px;
+}
+
+button.coolStuffBtn{
+    background-color: rgb(52, 50, 53);
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5.modal-title{
+    display: flex;
+    justify-content: center;
+}
+
+.modalFormWrapper{
+    padding: 2 rem;
+}
+
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(52, 50, 53);
+    color: white;
+}
+
+.border{
+    margin: 15px;
+    border-radius: 50px;
+}
+
+.size{
+    border-radius: 50px;
+    width: 60%;
+}
+
+.fa-brands{
+    margin: 10px;
+}
+
+.fa-facebook{
+    color: #3b5998 ;
+}
+
+.fa-instagram{
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
+}
+
+.member{
+    margin: 15px;
+    border-style: solid; 
+    border-color: rgb(52, 50, 53); 
+    border-width: 3px;
+    border-radius: 7px; 
+    text-align: center; 
+}
+
+.memberName{
+    background-color: rgb(52, 50, 53);
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 13px;
+    margin-right: 43px;
+    padding: 5px;
+    max-width: 210px;
+}
+
+.contactInfo{
+    text-align: center;
+}
+
+.contact{
+    margin: 40px;
+    margin-top: 90px;
+}
+
+
+.icon{
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+i{
+    margin: 10px;
+}
+
+.btnTextColor{
+    color: black;
+}
+
+.aboutImgCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.transitionImages{
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.contactImgCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 90px;
+    margin-top: 95px;
+    box-shadow: 10px 10px 16px -4px rgba(0,0,0,0.75);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.filter-btn{
+    margin-top: 20px;
+}
+
+.card-header{
+    background-color: #343a40 !important;
+    color: white;
+  }
+  
+  .card-body{
+    background-color: #343a40 !important;
+    color: white;
+
+  }
+
+  .transitionCard{
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .display{display: none;}
+
+  
+.post {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.sizeCard{
+  height: 200px;
+  width: 250px;
+}
+.post-title {
+    margin-bottom: 5px;
+    color: rgb(107, 0, 128)
+}
+
+.text-left{
+    float: left;
+  }
+  .post-body{
+      margin: 5px 0;
+      font-size: 18px;
+  }
+
+  button.btn.btn-link.btnTextColor{
+    color: white;
+  }
+  
